@@ -1,0 +1,8 @@
+.vscode/
+coding-style-reports.log
+*.o
+libmy.a
+.idea
+save.txt
+B-MUL-200_my_rpg-3.pdf
+player_events_u.c
